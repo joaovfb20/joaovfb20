@@ -8,14 +8,14 @@ Sou progamador a 2 anos, tenho conhecimento dessas linguagens de programação a
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ramonexe&show_icons=true&theme=dark&locale=pt-br&card_width=900px&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=joaovfb20&show_icons=true&theme=dark&locale=pt-br&card_width=900px&hide_border=true"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonexe&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=900px&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfb20&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=900px&hide_border=true" 
   />
 
 </p>
