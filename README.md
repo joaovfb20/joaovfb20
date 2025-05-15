@@ -1,6 +1,6 @@
 ## Oi! Sou João Vitor, programador 👋
 
-Sou progamador a 2 anos, tenho conhecimento dessas linguagens de programação abaixo, sou estudioso e estou procurando trabalho no momento, faço faculdade na Unibra estou atualmente no penúltimo semestre.
+Sou progamador a 2 anos, tenho conhecimento dessas linguagens de programação abaixo, sou estudioso e estou procurando trabalho no momento, faço faculdade na Unibra e estou atualmente no penúltimo semestre.
 
 <p>
   <img 
