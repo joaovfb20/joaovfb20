@@ -2,13 +2,34 @@
 
 Sou progamador a 2 anos, tenho conhecimento dessas linguagens de programação abaixo, sou estudioso e estou procurando trabalho no momento.
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ramonexe&show_icons=true&theme=dark&locale=pt-br&card_width=900px&hide_border=true"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonexe&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=900px&hide_border=true" 
+  />
+
+</p>
+
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovfb20&show_icons=true&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovfb20&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&hide_border=true" />
-</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -20,7 +41,7 @@ Sou progamador a 2 anos, tenho conhecimento dessas linguagens de programação a
   <img align="center" alt="Joao-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
-##
+## Rede Social
 
 <div>
 
