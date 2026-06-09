@@ -1,6 +1,6 @@
 ## Oi! Sou João Vitor, programador 👋
 
-Sou progamador a 2 anos, tenho conhecimento dessas linguagens de programação abaixo, sou estudioso e estou procurando trabalho no momento, já fiz uma faculdade de ADS e atualmente estou fazendo um curso de Cloud na AWS e um curso de Fullstack da Accenture pela Soulcode.
+Sou programador a 2 anos, tenho conhecimento dessas linguagens de programação abaixo, sou estudioso e estou procurando trabalho no momento, já fiz uma faculdade de ADS e atualmente estou fazendo um curso de Cloud na AWS e um curso de Fullstack da Accenture pela Soulcode.
 
 <p>
   <img 
